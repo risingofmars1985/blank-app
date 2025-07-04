@@ -1,1 +1,6 @@
-streamlit pandas numpy matplotlib requests ta
+streamlit
+requests
+pandas
+numpy
+matplotlib
+ta
